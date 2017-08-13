@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\3ec8f7c592210602b00cfe96e8df745de45b68a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_cf7fcd2572464ef37c8e567db372347a3488e322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_34cae58d4ddab3d272861210235000f814c55b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_38f101e33d21b714a491a248fe83a6097f3ec95e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\ff1f88cf4434f22ab7d2fd7d7ee01b18e9673da3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_c2f6250bff02b543ab3004b40ab9783de35fa3ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\096ad5766c483ec6560986527088f2cf6a8cc702\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_6db3bb0035d1753a51be6508edfed9e92bbdc74b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\37ec642a9c8296752aa6904d6213cd63da9cb63e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_f3f3bd681d1629e71ba8a3bd1a4f7ebbbaa55ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\94621bcd188389808da4e8a54051b8428d98bbea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_0e0e370d774562fca8cbfa1513a9aeaad812cca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\2d1dd49ed1e839bf68c770b35f0840e21f6bb986\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_d02122b03c02a277dc5ea3a3b8b60225b051e671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\c40a63d2c643b5caa290390ae9a8ef2e21ddd82d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_d238b636fb34896e100ed7b77465d5f48aeefcae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\1efcdb50af2e8981d48fd1fb0aaa2c4ae384adf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_9ab6d728973c4ba2d165cc0a17576c0f72dfdfba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\a2a82e9f22cbf1eae041c55b9524bf4f742f3019\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_6f46c54f79f959180fee5427261fde16820c6c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\gson-2.7_8485eb2833989a0ab9d32ae6a0beaeb16e01a0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.7\69d90fd7fb70e54746e26c10454c220e40a775ce\otto-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\otto-1.3.7_099e868f94340bd31a768fc19e92b4bfc60cdf7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\b46eef2d78bb18d9dada06360b4d0e9a6c5caaba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_65588b01bddfa6d0c81b9d135382f048b8fc830d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\f8fbd5a7155d86b8a48d078b8077e742ee77f09d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_8c24106c49c9110494b47ad39947c5248928d6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_feb5b1350ad2dad3448060f8e8eeeb38c14a4ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\9005e5f99fc30610fed36f474b8d89b27afd9245\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_0a0b68cfd393526e87a946ce8ffe92e5a59c81fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_9488501630df93054b23b76d9fac8ddcdd4d5e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\af58c6f3e302a939118bfdfc4780d5573affad1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_c7ca876395594c299ec592efb6d617e27274c555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_cafc294d73e9cf2491a4dec2d42364f933b0c2d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\okio-1.8.0_9d4529b70ecf3c8e90ebba4ffd017ba879df5d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\552df4b6825db373fe1fd232ab82995ca0d426b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_b66c2ba60138daf94f1b3afda2ca1a54239ea8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\2dfb45d29e45d09af686c330300c67d5cd19caf3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_02f975febac666466cf14a54ffba05a780c01449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\29b90f4c96b5ed793f4267815ddc9bf2357f00ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_1ba88c07c57a837b7f66051eb12aa141fe7e6e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\2ef70c9bc803a55566e257b3b7907ff01294f5b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_5194dc3cc564bf35734de1af1290d73550e54b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.android\build-cache\362462518ea436bf00b9bb63e823fedf2c9fef43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_820e3875a29451261ecbcfbd6a15b282cb2a9f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_7b05c43a3a3f8cc8dd86ece37a9b0591c2836d90.jar" />
+    </item>
+
+</items>
