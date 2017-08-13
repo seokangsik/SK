@@ -21,13 +21,15 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="30.0dip"
                 android:layout_marginTop="30.0dip"
+                android:textSize="40.0dip"
                 android:text="Mike"
-                android:textSize="30.0dip" />
+                />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="30.0dip"
+                android:textSize="15dp"
                 android:text="프로필 확인 및 수정" />
         </LinearLayout>
 
@@ -197,4 +199,5 @@
             </RelativeLayout>
         </LinearLayout>
     </LinearLayout>
+
 </LinearLayout>

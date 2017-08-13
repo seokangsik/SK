@@ -62,7 +62,7 @@
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:id="@+id/new_storage_least_time2show"
-           />
+            />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -90,7 +90,7 @@
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:id="@+id/new_storage_pricepertime2show"
-           />
+            />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -109,10 +109,10 @@
             android:layout_height="wrap_content"
             android:textSize="30dp"
             android:text="다음"
-            android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
             android:layout_marginTop="200dp"
-            android:layout_marginBottom="30dp"
+            android:layout_marginBottom="20dp"
             android:background="@color/colorPink"
             android:textColor="@color/colorWhite"
             android:onClick="onClick4return"

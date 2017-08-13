@@ -1,47 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorWhite">
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="30dp"
-        android:layout_marginLeft="30dp"
-        android:layout_marginTop="20dp"
-        android:text="전체 평점"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="35dp"
-        android:layout_marginTop="5dp"
-        android:textSize="15dp"
-        android:text="전체"/>
+        android:layout_marginLeft="30.0dip"
+        android:layout_marginTop="30.0dip"
+        android:text="전체 평점"
+        android:textSize="40dp" />
+
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:layout_marginTop="100.0dip"
+        android:background="@color/colorGray"
+        android:paddingBottom="1.0dip">
 
-        <ImageView
-            android:layout_width="wrap_content"
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="40dp"
-            android:src="@drawable/icons_trip"/>
+            android:gravity="center_vertical"
+            android:background="@color/colorWhite"
+            android:orientation="vertical">
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/icons_trip"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30.0dip"
+                android:layout_marginTop="5dp"
+                android:text="전체"
+                android:textSize="20dp" />
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/icons_trip"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginLeft="30.0dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp">
+
+                <RatingBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="?android:attr/ratingBarStyleIndicator"
+                    android:max="5"
+                    android:numStars="5"
+                    />
+                <!--<ImageView-->
+                <!--android:layout_width="25dp"-->
+                <!--android:layout_height="25dp"-->
+                <!--android:src="@drawable/icons8_star_filled_48" />-->
+
+                <!--<ImageView-->
+                <!--android:layout_width="25dp"-->
+                <!--android:layout_height="25dp"-->
+                <!--android:src="@drawable/icons8_star_filled_48" />-->
+
+                <!--<ImageView-->
+                <!--android:layout_width="25dp"-->
+                <!--android:layout_height="25dp"-->
+                <!--android:src="@drawable/icons8_star_filled_48" />-->
+
+                <!--<ImageView-->
+                <!--android:layout_width="25dp"-->
+                <!--android:layout_height="25dp"-->
+                <!--android:src="@drawable/icons8_star_half_empty_48" />-->
+
+                <!--<ImageView-->
+                <!--android:layout_width="25dp"-->
+                <!--android:layout_height="25dp"-->
+                <!--android:src="@drawable/icons8_star_48"-->
+                <!--android:layout_marginBottom="20dp"/>-->
+
+                <!--<TextView-->
+                <!--android:layout_marginLeft="10dp"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="3.5"-->
+                <!--android:textSize="10dp" />-->
+            </LinearLayout>
+        </LinearLayout>
     </LinearLayout>
-    <TextView
-        android:layout_marginTop="110dp"
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30dp"
-        android:layout_marginLeft="30dp"
-        android:text="예약 현황"/>
+        android:background="@color/colorGray"
+        android:orientation="horizontal"
+        android:paddingBottom="1dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30.0dip"
+                android:layout_marginTop="20dp"
+                android:text="예약 현황"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30.0dip"
+                android:layout_marginTop="20dp"
+                android:text="7월 21일\t\t09:00\t\t11:00\t\tKim"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30.0dip"
+                android:layout_marginTop="10dp"
+                android:text="7월 26일\t\t13:00\t\t15:00\t\tAnna"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30.0dip"
+                android:layout_marginTop="10dp"
+                android:text="7월 28일\t\t17:00\t\t20:00\t\tJason"
+                android:textSize="15dp"
+                android:layout_marginBottom="20dp"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
 </LinearLayout>

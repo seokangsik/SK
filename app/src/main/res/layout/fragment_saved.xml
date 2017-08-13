@@ -6,15 +6,16 @@
         android:text="Saved"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="50dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30.0dip"
+        android:layout_marginTop="30.0dip"
+        android:textSize="40.0dip"
         />
     <android.support.v7.widget.RecyclerView
         android:id="@+id/store_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:paddingLeft="20dp">
+        android:paddingLeft="20dp"
+        android:layout_marginTop="20dp">
 
     </android.support.v7.widget.RecyclerView>
 

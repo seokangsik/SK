@@ -11,6 +11,15 @@
         <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\classes_cf7fcd2572464ef37c8e567db372347a3488e322.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="C:\Users\Seo\Documents\GitHub\StoreKarrier3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f49bab3dacf718140483524b35c5aaa87d34810b\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="C:\Users\Seo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
         jumboMode="false"
@@ -108,6 +117,15 @@
         revision="25.0.2"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
         <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier\app\build\intermediates\pre-dexed\debug\gson-2.7_8485eb2833989a0ab9d32ae6a0beaeb16e01a0a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Seo\Documents\GitHub\StoreKarrier3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30d56a462c6318c18bc18a38c993519241f6b89c">
+        <dex dex="C:\Users\Seo\Documents\GitHub\StoreKarrier3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ec3bfd256b80fad1eaff6585d9631672d16c2b6e\classes.dex" />
     </item>
     <item
         is-multidex="false"
